@@ -1,0 +1,55 @@
+.logo{
+	color:red;
+	text-align:center;
+	font:bold;
+	border:1.5;
+	background-color:blue;
+}
+
+.maint{
+	background-color:lightgreen;
+	top:50px;
+	weight:110px;
+	/*border:111px;*/
+	border: 4;
+	width: 450px;
+	align: center;
+	height:200px;
+	color:darkorange;
+}
+select{
+	color:orange;
+	background-color:black;
+	text-align:center;
+	font-weight:900;
+	text-align:center;
+	font-size:10px;
+}
+body{
+	background-color:lightblue;
+	
+	
+}
+header{
+	
+	position:absolute;
+	top:0px;
+	left:0px;
+	right:0px;
+	
+	
+}
+
+body{
+
+	
+	
+	
+}
+
+result{
+	
+	text-align:center;
+	text:bold;
+	
+}
